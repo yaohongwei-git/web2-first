@@ -1,0 +1,23 @@
+div{
+    font-size: 20px;
+    background-color: green;
+    /*背景图的代码正常写*/
+    background-image: url(../img/bd_logo.png);
+    height: 100px;
+    background-size: contain;
+}
+
+p{
+    color: orange;
+    border-bottom: 1px solid red;
+}
+
+.h33{
+    background-color: red;
+    color: #fff;
+}
+
+li span{
+    font-size: 30px !important;
+    color:red;
+}
